@@ -1,0 +1,9 @@
+# Ignore generated data files
+house_sales.csv
+train.csv
+validation.csv
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
